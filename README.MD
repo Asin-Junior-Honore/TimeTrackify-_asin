@@ -1,3 +1,5 @@
+old project-but i still learnat a lot when making this project backthen😊
+
 **Project Title:** Time Tracking Dashboard
 
 **Overview:**
@@ -27,4 +29,3 @@ The Time Tracking Dashboard project is a responsive web application designed to 
 The Time Tracking Dashboard project demonstrates the ability to build a functional and visually appealing web application using HTML, CSS, and JavaScript. It serves as a valuable learning experience in front-end development, showcasing skills in design, interactivity, and data visualization. Through this project, I gained hands-on experience in building responsive web applications and learned how to effectively manage and present data to users.
 
 **Live Link:** [(https://time-tracking-app-honore.netlify.app)]
-Also i had alot of fun when making this project then😊
