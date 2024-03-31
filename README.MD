@@ -1,4 +1,4 @@
-old project-but i still learnat a lot when making this project backthen😊
+old project-but i still learnt a lot when making this project backthen😊
 
 **Project Title:** Time Tracking Dashboard
 
