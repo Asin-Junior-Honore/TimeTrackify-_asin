@@ -5,23 +5,22 @@ The Time Tracking Dashboard project is a responsive web application designed to 
 
 **Key Features:**
 
-1. **Activity Logging:** Users can log their activities with details such as project name, task description, and time spent.
-2. **Data Visualization:** The dashboard visualizes time data using charts and graphs, allowing users to gain insights into their productivity.
-3. **Responsive Design:** The application is built with a responsive design, ensuring optimal user experience across various devices and screen sizes.
-4. **User-Friendly Interface:** With a clean and intuitive interface, users can easily navigate through the dashboard and access the features they need.
-5. **Task Management:** Users can manage their tasks efficiently by organizing them based on different criteria such as priority, status, and due dates.
+
+1. **Data Visualization:** The dashboard visualizes time data using charts and graphs, allowing users to gain insights into their productivity.
+2. **Responsive Design:** The application is built with a responsive design, ensuring optimal user experience across various devices and screen sizes.
+3. **User-Friendly Interface:** With a clean and intuitive interface, users can easily navigate through the dashboard and access the features they need.
+4. **Task Management:** Users can manage their tasks efficiently by organizing them based on different criteria such as priority, status, and due dates.
 
 **Technologies Used:**
 
 - HTML: Used for creating the structure and content of the web pages.
 - CSS: Implemented for styling the user interface and ensuring visual consistency.
 - JavaScript: Employed for adding interactivity and dynamic features to the dashboard.
-- Chart.js: Integrated for generating interactive charts and graphs to visualize time data.
 
 **Project Challenges:**
 
 - Implementing responsive design to ensure compatibility across various devices and screen sizes.
-- Managing and displaying time data effectively using JavaScript and Chart.js.
+- Managing and displaying time data effectively using JavaScript
 - Enhancing user experience by designing an intuitive and user-friendly interface.
 
 **Project Outcome:**
